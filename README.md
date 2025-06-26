@@ -1,3 +1,17 @@
+# Weather Forecast
+
+**Weather Forecast** is a modern web application built with Next.js that provides a 7-day weather forecast for any address in the United States.
+
+Users can enter an address, and the app will geocode the location, fetch the latest weather data from the National Weather Service, and display a detailed forecast with weather icons and temperature information. The app features a clean, responsive design and leverages React, TypeScript, and Tailwind CSS for a seamless user experience.
+
+**Key Features:**
+
+- Enter any US address to get a 7-day weather forecast
+- Real-time data from the National Weather Service API
+- Visual weather icons and clear temperature/unit display
+- Responsive, mobile-friendly interface
+- Built with Next.js, React, and TypeScript
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
